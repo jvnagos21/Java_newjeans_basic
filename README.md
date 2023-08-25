@@ -2,7 +2,7 @@
 
 Esse projeto tem como objetivo gerar dados do grupo de K-Pop usando o básico do básico de Java ☕
 
-##ATENÇÃO: PROJETO AINDA EM DESENVOLVIMENTO 🚧🚧
+## ATENÇÃO: PROJETO AINDA EM DESENVOLVIMENTO 🚧🚧
 
 ## TECNOLOGIAS UTILIZADAS 👨‍💻
 
